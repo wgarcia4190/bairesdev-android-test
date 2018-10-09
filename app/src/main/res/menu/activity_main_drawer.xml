@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/google"
+            android:title="Google" />
+        <item
+            android:id="@+id/buttons"
+            android:title="Buttons" />
+        <item
+            android:id="@+id/github_projects"
+            android:title="Github Projects" />
+    </group>
+
+
+</menu>
